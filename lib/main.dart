@@ -31,7 +31,11 @@ class MyHomePage extends StatelessWidget {
         children: <Widget>[
           // รูปภาพพื้นหลัง
           Image.network(
+<<<<<<< HEAD
             'https://picsum.photos/id/1015/300/300',
+=======
+            'https://static.vecteezy.com/system/resources/previews/030/637/354/non_2x/cute-kawaii-cat-free-photo.jpg',
+>>>>>>> f5bfd3d (update)
             fit: BoxFit.cover,
           ),
 
